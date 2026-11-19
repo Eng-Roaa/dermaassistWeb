@@ -1,0 +1,9 @@
+streamlit>=1.50
+pandas
+numpy
+pillow
+opencv-python-headless
+cryptography
+requests
+ai-edge-litert
+reportlab

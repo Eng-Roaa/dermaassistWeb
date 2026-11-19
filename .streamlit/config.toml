@@ -1,0 +1,9 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+maxUploadSize = 8
+enableXsrfProtection = true
+
+[client]
+toolbarMode = "viewer"
